@@ -22,7 +22,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "🍎备份源二",
+      "name": "厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -31,7 +31,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "🍎备份源三",
+      "name": "CokeMV",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "Smdyy",
-      "name": "🍎备份源四",
+      "name": "神马",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -107,16 +107,6 @@
       "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
     },
     {
-      "key": "csp_Czsapp",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Ysgc",
       "name": "影视工厂",
       "type": 3,
@@ -140,15 +130,6 @@
       "name": "BTtwo",
       "type": 3,
       "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Smdyy",
-      "name": "神马电影院",
-      "type": 3,
-      "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
