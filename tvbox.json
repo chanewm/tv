@@ -30,15 +30,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_Cokemv",
-      "name": "CokeMV",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Smdyy",
       "name": "神马",
       "type": 3,
