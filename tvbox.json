@@ -1,16 +1,6 @@
 {
   "sites": [
     {
-      "key": "csp_BuLei",
-      "name": "布雷",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.bulei.cc"
-    },
-    {
       "key": "LiteApple",
       "name": "小苹果",
       "type": 3,
@@ -18,15 +8,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "快看",
@@ -48,44 +29,13 @@
       "ext": "https://gst163.github.io/s/nongminyingshi.json"
     },
     {
-      "key": "Kunyu77",
-      "name": "酷云七七",
+      "key": "csp_CZSPP",
+      "name": "厂长",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_555",
-      "name": "555",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-    {
-      "key": "csp_Slsp",
-      "name": "石榴",
-      "type": 3,
-      "api": "csp_Slsp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
-    },
-    {
-      "key": "csp_xBPQ_大米星球",
-      "name": "️大米星球",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://9xi4o.tk/sub/xBPQ/dmxq.json",
-      "jar": "http://9xi4o.tk/sub/xBPQ.jar"
+      "filterable": 0
     },
     {
       "key": "QQ",
@@ -95,6 +45,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "布雷(停用)",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.bulei.cc"
     }
   ],
   "lives": [
