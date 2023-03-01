@@ -19,6 +19,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_Cokemv",
+      "name": "可乐",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "农民",
       "name": "农民",
       "type": 3,
@@ -36,15 +46,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "QQ",
-      "name": "腾讯(解析)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Kunyu77",
