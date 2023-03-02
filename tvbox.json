@@ -9,17 +9,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Tutu_spider",
-      "name": "图图",
-      "api": "csp_TutuYs",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "http://124.248.66.89:7788/",
-      "jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
-    },
     {"key":"csp_xbb_hdmoli","name":"moli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/hdmoli.json"},
     {"key":"csp_Bdys01","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_xp_yingba","name":"电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/yingba.json"},
@@ -32,6 +21,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gst163.github.io/s/nongminyingshi.json"
+    },
+    {
+      "key": "Tutu_spider",
+      "name": "图图",
+      "api": "csp_TutuYs",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "http://124.248.66.89:7788/",
+      "jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
     },
     {
       "key": "csp_CZSPP",
