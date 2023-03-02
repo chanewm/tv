@@ -10,17 +10,8 @@
       "filterable": 1
     },
     {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Tutu_spider",
-      "name": "🐰图图",
+      "name": "图图",
       "api": "csp_TutuYs",
       "type": 3,
       "filterable": 1,
@@ -59,17 +50,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "BuLei",
-      "name": "布雷",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.bulei.cc",
-      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;061CE289522D4CF8FE68955937373CE0"
     }
   ],
   "lives": [
