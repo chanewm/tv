@@ -29,7 +29,9 @@
       "ext": "http://124.248.66.89:7788/",
       "jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
     },
-    {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Bdys01","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_xp_yingba","name":"电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/yingba.json"},
+    {"key":"csp_xbb_花猫TV","name":"花猫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/花猫TV.json"},
     {
       "key": "农民",
       "name": "农民",
