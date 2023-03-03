@@ -9,9 +9,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_xbb_hdmoli","name":"moli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/hdmoli.json"},
-    {"key":"csp_Bdys01","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_xp_yingba","name":"电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/yingba.json"},
+    {
+      "key": "csp_Bdys01",
+      "name": "哔嘀",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "农民",
       "name": "农民",
@@ -50,6 +56,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "布雷",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.bulei.cc",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;F3687D6E511A73CAF72F4757A04518B2"
+    },
+    {
+      "key": "csp_xbb_hdmoli",
+      "name": "moli",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.liucn.cc/box/sub/MeowXB/hdmoli.json"
+    },
+    {
+      "key": "csp_xp_yingba",
+      "name": "电影吧",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/sub/MeowXP/yingba.json"
     }
   ],
   "lives": [
