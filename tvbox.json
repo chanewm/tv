@@ -41,15 +41,16 @@
       "ext": "https://gst163.github.io/s/nongminyingshi.json",
       "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
-    //{
-    //  "key": "Kunyu77",
-    //  "name": "酷云七七",
-    //  "type": 3,
-    //  "api": "csp_Kunyu77",
-    //  "searchable": 1,
-    //  "quickSearch": 1,
-    //  "filterable": 1
-    //},
+    {
+      "key": "csp_Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_BuLei",
       "name": "布雷",
@@ -112,6 +113,15 @@
     //  "quickSearch": 1,
     //  "filterable": 0,
     //  "ext": "http://47.104.99.175"
+    //},
+    //{
+    //  "key": "Kunyu77",
+    //  "name": "酷云七七",
+    //  "type": 3,
+    //  "api": "csp_Kunyu77",
+    //  "searchable": 1,
+    //  "quickSearch": 1,
+    //  "filterable": 1
     //},
   ],
   "lives": [
