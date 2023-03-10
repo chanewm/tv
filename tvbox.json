@@ -68,7 +68,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "date": "2023-03-10 16:25:25"
+      "date": "2023-03-10 16:25:25",
+      "jar": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"
     }
     //{
     //  "key": "Tutu_spider",
