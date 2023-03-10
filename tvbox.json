@@ -61,27 +61,26 @@
       "ext": "https://raw.liucn.cc/box/sub/MeowXP/yingba.json"
     },
     {
-      "key": "Tutu_spider",
-      "name": "图图",
-      "api": "csp_TutuYs",
+      "key": "csp_Czsapp",
+      "name": "厂长",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "csp_Czsapp",
       "searchable": 1,
-      "ext": "http://124.248.66.89:7788/",
-      "jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
-    },
-    {
-      "key": "Czsapp",
-      "name": "🐼厂长",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "8ee655f702d0d21f3643504783babbc3",
-      "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/tt.jar"
+      "quickSearch": 1,
+      "filterable": 1,
+      "date": "2023-03-10 16:25:25"
     }
+    //{
+    //  "key": "Tutu_spider",
+    //  "name": "图图",
+    //  "api": "csp_TutuYs",
+    //  "type": 3,
+    //  "filterable": 1,
+    //  "quickSearch": 1,
+    //  "searchable": 1,
+    //  "ext": "http://124.248.66.89:7788/",
+    //  "jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
+    //}
     //{
     //  "key": "csp_CZSPP",
     //  "name": "厂长",
