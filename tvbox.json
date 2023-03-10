@@ -10,6 +10,17 @@
       "filterable": 1
     },
     {
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
+    {
       "key": "csp_xp_tjyy",
       "name": "奇优",
       "type": 3,
@@ -17,7 +28,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"
+      "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json",
+      "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
       "key": "农民",
@@ -27,7 +39,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gst163.github.io/s/nongminyingshi.json"
+      "ext": "https://gst163.github.io/s/nongminyingshi.json",
+      "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
       "key": "Kunyu77",
@@ -57,8 +70,38 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "http://121.62.19.116:1996",
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+      "ext": "http://121.62.19.116:1996"
+    },
+    {
+      "key": "百影视频",
+      "name": "百影",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://47.104.99.175"
+    },
+    {
+      "key": "NoSearch_Bdys_spider",
+      "name": "哔滴",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
+    {
+      "key": "NoSearch_csp_DiDuan",
+      "name": "低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
@@ -417,5 +460,5 @@
     "cms.qdwght.com"
   ],
 
-  "spider": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+  "spider": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2" //"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
 }
