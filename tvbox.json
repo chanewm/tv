@@ -10,17 +10,6 @@
       "filterable": 1
     },
     {
-      "key": "Lezhu_spider",
-      "name": "乐猪",
-      "api": "csp_Lezhu",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
       "key": "csp_xp_tjyy",
       "name": "奇优",
       "type": 3,
@@ -30,6 +19,16 @@
       "filterable": 1,
       "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json",
       "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+    },
+    {
+      "key": "快看影视",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "农民",
@@ -42,15 +41,15 @@
       "ext": "https://gst163.github.io/s/nongminyingshi.json",
       "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
-    {
-      "key": "Kunyu77",
-      "name": "酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    //{
+    //  "key": "Kunyu77",
+    //  "name": "酷云七七",
+    //  "type": 3,
+    //  "api": "csp_Kunyu77",
+    //  "searchable": 1,
+    //  "quickSearch": 1,
+    //  "filterable": 1
+    //},
     {
       "key": "csp_BuLei",
       "name": "布雷",
@@ -62,27 +61,6 @@
       "ext": "https://www.bulei.cc",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;F3687D6E511A73CAF72F4757A04518B2"
     },
-    {
-      "key": "DNSP_spider",
-      "name": "酷酷",
-      "api": "csp_Dnsp",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "http://121.62.19.116:1996"
-    },
-    //{
-    //  "key": "百影视频",
-    //  "name": "百影",
-    //  "type": 3,
-    //  "api": "csp_MianHua",
-    //  "searchable": 1,
-    //  "playerType": 2,
-    //  "quickSearch": 1,
-    //  "filterable": 0,
-    //  "ext": "http://47.104.99.175"
-    //},
     {
       "key": "NoSearch_Bdys_spider",
       "name": "哔滴",
@@ -102,7 +80,39 @@
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "Lezhu_spider",
+      "name": "乐猪",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
     }
+    //{
+    //  "key": "DNSP_spider",
+    //  "name": "酷酷",
+    //  "api": "csp_Dnsp",
+    //  "type": 3,
+    //  "filterable": 1,
+    //  "quickSearch": 1,
+    //  "searchable": 1,
+    //  "ext": "http://121.62.19.116:1996"
+    //},
+    //{
+    //  "key": "百影视频",
+    //  "name": "百影",
+    //  "type": 3,
+    //  "api": "csp_MianHua",
+    //  "searchable": 1,
+    //  "playerType": 2,
+    //  "quickSearch": 1,
+    //  "filterable": 0,
+    //  "ext": "http://47.104.99.175"
+    //},
   ],
   "lives": [
     {
