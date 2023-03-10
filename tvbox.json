@@ -51,7 +51,7 @@
     },
     {
       "key": "DNSP_spider",
-      "name": "酷酷影视",
+      "name": "酷酷",
       "api": "csp_Dnsp",
       "type": 3,
       "filterable": 1,
