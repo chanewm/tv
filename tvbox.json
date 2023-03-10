@@ -42,16 +42,6 @@
       "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
-      "key": "csp_Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_BuLei",
       "name": "布雷",
       "type": 3,
@@ -73,20 +63,20 @@
       "ext": ""
     },
     {
+      "key": "csp_Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_LibVio",
       "name": "LibVio",
       "type": 3,
       "api": "csp_Lib",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
@@ -100,7 +90,7 @@
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "Lezhu_spider",
@@ -113,6 +103,16 @@
       "searchable": 1,
       "ext": ""
     }
+    //{
+    //  "key": "csp_Cokemv",
+    //  "name": "Cokemv",
+    //  "type": 3,
+    //  "api": "csp_Cokemv",
+    //  "searchable": 1,
+    //  "playerType": 2,
+    //  "quickSearch": 1,
+    //  "filterable": 1
+    //}
     //{
     //  "key": "DNSP_spider",
     //  "name": "酷酷",
