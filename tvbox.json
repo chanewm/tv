@@ -57,7 +57,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "http://121.62.19.116:1996"
+      "ext": "http://121.62.19.116:1996",
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     }
   ],
   "lives": [
