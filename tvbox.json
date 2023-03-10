@@ -21,16 +21,6 @@
       "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
-      "key": "快看影视",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "农民",
       "name": "农民",
       "type": 3,
@@ -102,6 +92,16 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
+    },
+    {
+      "key": "快看影视",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1
     }
     //{
     //  "key": "csp_Cokemv",
