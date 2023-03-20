@@ -17,8 +17,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json",
-      "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+      "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"
+      //"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
       "key": "农民",
@@ -28,8 +28,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gst163.github.io/s/nongminyingshi.json",
-      "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+      "ext": "https://gst163.github.io/s/nongminyingshi.json"
+      //"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
       "key": "csp_BuLei",
@@ -50,7 +50,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": ""
+      "ext": "",
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "csp_Auete",
@@ -58,9 +59,10 @@
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
-      "playerType": 2,
+      //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "csp_LibVio",
@@ -68,9 +70,10 @@
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
-      "playerType": 2,
+      //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "NoSearch_csp_DiDuan",
@@ -78,9 +81,10 @@
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
-      "playerType": 2,
+      //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "Lezhu_spider",
@@ -88,10 +92,11 @@
       "api": "csp_Lezhu",
       "type": 3,
       "filterable": 1,
-      "playerType": 2,
+      //"playerType": 2,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": ""
+      "ext": "",
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "快看影视",
@@ -99,9 +104,10 @@
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
-      "playerType": 2,
+      //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     }
     //{
     //  "key": "csp_Cokemv",
@@ -500,5 +506,6 @@
     "cms.qdwght.com"
   ],
 
-  "spider": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2" //"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+  "spider": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+//"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
 }
