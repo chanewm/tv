@@ -1,4 +1,9 @@
 {
+  "spider": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2",
+  //"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+  //"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+  //"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+
   "sites": [
     {
       "key": "LiteApple",
@@ -17,8 +22,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"
-      //"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+      "ext": "https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json",
+      "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
       "key": "农民",
@@ -26,21 +31,8 @@
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gst163.github.io/s/nongminyingshi.json"
-      //"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
-    },
-    {
-      "key": "csp_BuLei",
-      "name": "布雷",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.bulei.cc",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;F3687D6E511A73CAF72F4757A04518B2"
+      "ext": "https://gst163.github.io/s/nongminyingshi.json",
+      "jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
     },
     {
       "key": "NoSearch_Bdys_spider",
@@ -50,19 +42,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "",
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      //"playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+      "ext": ""
+      //"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "csp_LibVio",
@@ -72,8 +53,8 @@
       "searchable": 1,
       //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+      "filterable": 1
+      //"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "NoSearch_csp_DiDuan",
@@ -83,8 +64,8 @@
       "searchable": 1,
       //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+      "filterable": 1
+      //"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "Lezhu_spider",
@@ -95,8 +76,8 @@
       //"playerType": 2,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "",
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+      "ext": ""
+      //"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     },
     {
       "key": "快看影视",
@@ -106,8 +87,8 @@
       "searchable": 1,
       //"playerType": 2,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+      "filterable": 1
+      //"jar": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
     }
     //{
     //  "key": "csp_Cokemv",
@@ -149,6 +130,17 @@
     //  "quickSearch": 1,
     //  "filterable": 1
     //},
+    //{
+    //  "key": "csp_BuLei",
+    //  "name": "布雷",
+    //  "type": 3,
+    //  "api": "csp_BuLei",
+    //  "searchable": 1,
+    //  "quickSearch": 1,
+    //  "filterable": 1,
+    //  "ext": "https://www.bulei.cc",
+    //  "jar": "https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;F3687D6E511A73CAF72F4757A04518B2"
+    //}
   ],
   "lives": [
     {
@@ -504,8 +496,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-
-  "spider": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
-//"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+  ]
 }
