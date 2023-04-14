@@ -74,17 +74,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nkdy",
-      "name": "👓耐看┃直连",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83"
-    },
-    {
       "key": "csp_FanYY",
       "name": "💦剥饭┃云盘",
       "type": 3,
