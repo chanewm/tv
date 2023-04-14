@@ -1,5 +1,5 @@
 {
-  "spider": "http://我不是.肥猫.love:63/Jar/panda230414.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83",
   "sites": [
     {
       "key": "csp_apple",
@@ -74,24 +74,35 @@
       "filterable": 1
     },
     {
+      "key": "csp_Bd",
+      "name": "💥哔嘀┃直连",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_FanYY",
-      "name": "💦剥饭┃云盘",
+      "name": "💦剥饭┃4K云盘",
       "type": 3,
       "api": "csp_FanYY",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "csp_Paper",
-      "name": "📜纸条┃云盘",
+      "name": "📜纸条┃4K云盘",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "changeable": 0,
+      "ext": "http://ali.饭太硬.ml/alitoken"
     }
   ],
   "parses": [
