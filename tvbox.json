@@ -81,27 +81,18 @@
       "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83"
     },
     {
       "key": "csp_FanYY",
-      "name": "💦┃剥饭┃直连",
+      "name": "💦剥饭┃云盘",
       "type": 3,
       "api": "csp_FanYY",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/alitoken"
-    },
-    {
-      "key": "csp_biubiu_voflix",
-      "name": "🌀Vof┃直连",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/voflix.json"
     },
     {
       "key": "csp_Paper",
