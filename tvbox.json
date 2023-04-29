@@ -103,17 +103,6 @@
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
-      "key": "csp_FanYY",
-      "name": "💦剥饭┃4K云盘",
-      "type": 3,
-      "api": "csp_FanYY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
-    },
-    {
       "key": "csp_Paper",
       "name": "📜纸条┃4K云盘",
       "type": 3,
