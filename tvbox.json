@@ -22,6 +22,9 @@
       "filterable": 0
     },
     {
+      "key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1
+    },
+    {
       "key": "csp_kuaikan",
       "name": "👀快看┃App",
       "type": 3,
@@ -30,16 +33,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_Xinsj",
@@ -75,13 +68,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bttoo",
-      "name": "✌比特┃直连",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0
     },
     {
       "key": "csp_Bd",
@@ -112,7 +99,17 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
-    }
+    },
+        {
+          "key": "csp_AppTT",
+          "name": "🐇图图|暂停",
+          "type": 3,
+          "api": "csp_AppTT",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        }
   ],
   "parses": [
     {
