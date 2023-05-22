@@ -41,7 +41,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tv.libvio.cc"
-  },
+    },
     {
       "key": "csp_apple",
       "name": "🍎苹果┃App",
@@ -64,10 +64,10 @@
       "jar": "http://我不是.肥猫.love:63/Jar/panda230423.jar;md5;36C5A2F03CA68213DADBF4502A2F4174"
     },
     {
-      "key": "Kuaikan",
-      "name": "👀快看┃App",
+      "key": "csp_Smdyy",
+      "name": "🐴神马┃直连",
       "type": 3,
-      "api": "csp_Kuaikan",
+      "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
