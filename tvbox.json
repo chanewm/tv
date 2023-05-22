@@ -12,6 +12,26 @@
       "filterable": 0
     },
     {
+      "key": "csp_appys_酷影",
+      "name": "🥠️酷影┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://kuyun.realku.cn/api.php/app/"
+    },
+    {
+      "key": "多米蓝光",
+      "name": "🌽️多米┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vod.dmdh.top:5680//api.php/app/"
+    },
+    {
       "key": "csp_apple",
       "name": "🍎苹果┃App",
       "type": 3,
