@@ -102,15 +102,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bd",
-      "name": "💥哔嘀┃直连",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_WoGG",
       "name": "👽玩偶┃4K云盘",
       "type": 3,
