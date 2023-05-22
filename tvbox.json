@@ -53,26 +53,14 @@
       "jar": "http://我不是.肥猫.love:63/Jar/panda230423.jar;md5;36C5A2F03CA68213DADBF4502A2F4174"
     },
     {
-      "key": "csp_kuaikan",
+      "key": "Kuaikan",
       "name": "👀快看┃App",
       "type": 3,
       "api": "csp_Kuaikan",
-      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Xinsj",
-      "name": "🐼新视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.6080dy3.com"
-    },
+  },
     {
       "key": "csp_fantuan",
       "name": "🍙饭团┃直连",
