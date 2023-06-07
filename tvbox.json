@@ -40,6 +40,16 @@
       "playUrl": "json:https://jx.4kdv.com/?url="
     },
     {
+      "key": "csp_apple",
+      "name": "🍎苹果┃App",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Lib",
       "name": "💫Lib┃直连",
       "type": 3,
@@ -49,16 +59,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tv.libvio.cc"
-    },
-    {
-      "key": "csp_apple",
-      "name": "🍎苹果┃App",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_XBPQ_磁力熊",
@@ -71,16 +71,6 @@
       "changeable": 1,
       "playerType": 2,
       "ext": "http://我不是.肥猫.love:63/json/磁力熊.json"
-    },
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_Czsapp",
@@ -100,7 +90,17 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "🐰图图┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_WoGG",
@@ -119,7 +119,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
   }
   ],
