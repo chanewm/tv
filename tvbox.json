@@ -81,7 +81,17 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "https://www.6080yy2.com"
-  },
+    },
+    {
+      "key": "在线之家",
+      "name": "🎞在线┃直连",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
     {
       "key": "csp_Czsapp",
       "name": "📔厂长┃直连",
