@@ -61,18 +61,6 @@
       "ext": "https://tv.libvio.cc"
     },
     {
-      "key": "csp_XBPQ_磁力熊",
-      "name": "🦝磁力┃直连",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "http://我不是.肥猫.love:63/json/磁力熊.json"
-    },
-    {
       "key": "Xinsj",
       "name": "🌟视觉┃直连",
       "type": "3",
@@ -99,15 +87,6 @@
       "api": "csp_Czsapp",
       "m3u8ads": "hd.youyhn.com",
       "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "⏮️低端┃直连",
-      "type": 3,
-      "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
