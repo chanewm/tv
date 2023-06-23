@@ -29,17 +29,6 @@
       "ext": "http://v.dmdh.top/api.php/app/"
     },
     {
-      "key": "csp_appys_如意4K",
-      "name": "🐵️如意┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "playUrl": "json:https://jx.4kdv.com/?url="
-    },
-    {
       "key": "csp_apple",
       "name": "🍎苹果┃App",
       "type": 3,
