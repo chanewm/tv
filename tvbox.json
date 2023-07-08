@@ -59,14 +59,32 @@
     },
     {
       "key": "csp_Lib",
-      "name": "💫Lib",
+      "name": "🌟利奥",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
-      "playerType": 2,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tv.libvio.cc"
+      "changeable": 1,
+      "ext": "https://www.libvio.fun/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌比特┃直连",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌾农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://饭太硬.top/x/json/nmys.json"
     },
     {
       "key": "Xinsj",
