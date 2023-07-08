@@ -13,14 +13,14 @@
     },
     {
       "key": "爱迪V2",
-      "name": "💡️爱迪┃App",
+      "name": "💡️爱迪",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
     {
       "key": "csp_apple",
-      "name": "🍎苹果┃App",
+      "name": "🍎苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "playerType": 1,
@@ -29,8 +29,54 @@
       "filterable": 1
     },
     {
+      "key": "肥猫",
+      "name": "😸肥猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://我不是.肥猫.love:63/json/芸芸.json"
+    },
+    {
+      "key": "飞速",
+      "name": "🚄飞速",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://www.lfytv.cn/api.php/app/"
+    },
+    {
+      "key": "csp_fantuan",
+      "name": "🍙团团",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.fantuan3.com"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "🌀蓝光",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lgyy.vip"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "🏝Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Lib",
-      "name": "💫Lib┃直连",
+      "name": "💫Lib",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -41,7 +87,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "🌟视觉┃直连",
+      "name": "🌟视觉",
       "type": "3",
       "api": "csp_Xinsj",
       "searchable": "1",
@@ -51,7 +97,7 @@
     },
     {
       "key": "在线之家",
-      "name": "🎞在线┃直连",
+      "name": "🎞在线",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -61,7 +107,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "📔厂长┃直连",
+      "name": "📔厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "m3u8ads": "hd.youyhn.com",
@@ -72,7 +118,7 @@
     },
     {
       "key": "csp_AppTT",
-      "name": "🐰图图┃App",
+      "name": "🐰图图",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -82,7 +128,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶┃4K云盘",
+      "name": "👽玩偶┃阿里云盘",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -92,7 +138,7 @@
     },
     {
       "key": "csp_search_七夜",
-      "name": "👴七夜┃搜索",
+      "name": "👴七夜┃阿里云盘|搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
