@@ -21,6 +21,15 @@
       "changeable": 0
     },
     {
+      "key": "csp_Dy1010",
+      "name": "❤️双十",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_fantuan",
       "name": "🍙团团",
       "type": 3,
@@ -29,15 +38,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.fantuan3.com"
-    },
-    {
-      "key": "csp_Dy1010",
-      "name": "❤️双十",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_Auete",
