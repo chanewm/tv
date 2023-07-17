@@ -5,18 +5,20 @@
       "key": "js豆瓣",
       "name": "🅱豆瓣┃推荐",
       "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
+      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
+      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "爱迪V2",
-      "name": "💡️爱迪",
+      "key": "探探",
+      "name": "🏵探探",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+      "api": "csp_YT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "csp_fantuan",
@@ -33,16 +35,6 @@
       "name": "💢多线",
       "type": 3,
       "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "📕可乐",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -96,14 +88,14 @@
       "ext": "http://饭太硬.top/x/json/nmys.json"
     },
     {
-      "key": "Xinsj",
-      "name": "🌟视觉",
-      "type": "3",
+      "key": "csp_Xinsj",
+      "name": "🐼视觉",
+      "type": 3,
       "api": "csp_Xinsj",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://www.6080yy2.com"
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
     },
     {
       "key": "在线之家",
@@ -120,11 +112,28 @@
       "name": "📔厂长",
       "type": 3,
       "api": "csp_Czsapp",
-      "m3u8ads": "hd.youyhn.com",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "⏮️低端",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Dy1010",
+      "name": "❤️双十",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "csp_WoGG",
