@@ -31,23 +31,13 @@
       "ext": "https://www.fantuan3.com"
     },
     {
-      "key": "csp_DuoX",
-      "name": "💢多线",
+      "key": "csp_Dy1010",
+      "name": "❤️双十",
       "type": 3,
-      "api": "csp_DuoX",
+      "api": "csp_Dy1010",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀蓝光",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.vip"
     },
     {
       "key": "csp_Auete",
@@ -88,6 +78,15 @@
       "ext": "http://饭太硬.top/x/json/nmys.json"
     },
     {
+      "key": "csp_DuoX",
+      "name": "💢多线",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_Xinsj",
       "name": "🐼视觉",
       "type": 3,
@@ -108,6 +107,16 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
+      "key": "csp_Lgyy",
+      "name": "🌀蓝光",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lgyy.vip"
+    },
+    {
       "key": "csp_Czsapp",
       "name": "📔厂长",
       "type": 3,
@@ -122,15 +131,6 @@
       "name": "⏮️低端",
       "type": 3,
       "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Dy1010",
-      "name": "❤️双十",
-      "type": 3,
-      "api": "csp_Dy1010",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
