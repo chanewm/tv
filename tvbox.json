@@ -21,6 +21,14 @@
       "changeable": 0
     },
     {
+      "key": "贱贱",
+      "name": "🐭见见",
+      "type": 3,
+      "playerType": "1",
+      "api": "http://xhww.fun:63/js/drpy1.min.js",
+      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+    },
+    {
       "key": "csp_Dy1010",
       "name": "❤️双十",
       "type": 3,
@@ -76,15 +84,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://饭太硬.top/x/json/nmys.json"
-    },
-    {
-      "key": "csp_DuoX",
-      "name": "💢多线",
-      "type": 3,
-      "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_Xinsj",
