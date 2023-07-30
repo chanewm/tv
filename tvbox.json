@@ -2,11 +2,11 @@
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83",
   "sites": [
     {
-      "key": "js豆瓣",
+      "key": "js豆豆",
       "name": "🅱豆瓣┃推荐",
       "type": 3,
-      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
-      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
+      "api": "http://xhww.fun:63/js/drpy1.min.js",
+      "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
