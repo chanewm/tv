@@ -53,6 +53,15 @@
       "filterable": 1
     },
     {
+			"key": "星辰",
+			"name": "✴️星辰",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "http://xhww.fun:63/小米/2.jar;md5;d86999aba43144a25646757a06363b8f",
+			"playerType": "1",
+			"ext": "http://xhww.fun:63/小米/源/星辰.json"
+		},
+    {
       "key": "csp_Auete",
       "name": "🏝Auete",
       "type": 3,
