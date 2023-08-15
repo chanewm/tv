@@ -12,15 +12,6 @@
       "filterable": 0
     },
     {
-      "key": "探探",
-      "name": "🏵探探",
-      "type": 3,
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "贱贱",
       "name": "🐭见见",
       "type": 3,
@@ -29,23 +20,37 @@
       "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
     },
     {
-      "key": "csp_Dy1010",
-      "name": "❤️双十",
+      "key": "瑞丰",
+      "name": "🫕瑞丰",
       "type": 3,
-      "api": "csp_Dy1010",
+      "api": "csp_AppYs",
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;d86999aba43144a25646757a06363b8f",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-      "key": "csp_fantuan",
-      "name": "🍙团团",
+      "key": "酷影",
+      "name": "🆒酷影",
       "type": 3,
-      "api": "csp_Fantuan",
+      "api": "csp_AppYsV2",
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;d86999aba43144a25646757a06363b8f",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.fantuan3.com"
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🗯️厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://cz01.me/",
+      "filterable": 1
     },
     {
       "key": "csp_Auete",
@@ -57,83 +62,74 @@
       "filterable": 1
     },
     {
-      "key": "csp_Lib",
-      "name": "🌟利奥",
+      "key": "磁力3",
+      "name": "🌩️迅雷",
       "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.fun/"
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;d86999aba43144a25646757a06363b8f",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "分类url": "https://xunlei8.cc/{cateId}-0-{year}-{area}-date-{catePg}-30.html",
+        "分类": "电影$list#电视剧$tv",
+        "数组": "<div class=\"b33c0\">&&</a",
+        "图片": "src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "线路标题": "迅雷下载",
+        "搜索模式": "1",
+        "搜索url": "https://xunlei8.cc/s/{wd}.html",
+        "播放数组": "<ul>&&</ul",
+        "播放列表": "<a&&</a",
+        "播放标题": "title=\"&&\"",
+        "年代": "年份：&&</a>",
+        "地区": "地区：&&</a>",
+        "类型": "类型：&&</a>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "<p class=\"b1f40f7888\">&&</h2>"
+      }
     },
     {
-      "key": "csp_Bttoo",
-      "name": "✌比特",
+      "key": "磁力2",
+      "name": "🎫MP4",
       "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;d86999aba43144a25646757a06363b8f",
+      "api": "csp_XBPQ",
+      "ext": {
+        "首页": "电视剧",
+        "分类url": "https://m.mp4us.com/list/{cateId}-{catePg}.html;;d",
+        "分类": "动作片&科幻片&电视剧&动画片",
+        "分类值": "1&2&10&9",
+        "搜索url": "/search/;post;wd={wd}",
+        "线路合并": "1",
+        "播放数组": "panel down-list thunder&&</ul>",
+        "播放列表": "<div class=\"url-left\"><a &&</a>"
+      }
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://饭太硬.top/x/json/nmys.json"
-    },
+			"key": "秒看资源",
+			"name": "⏱️秒看",
+			"type": 1,
+			"api": "https://mkzy.vip/api.php/provide/vod",
+			"searchable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"综艺",
+				"电视剧",
+				"电影",
+				"动漫"
+			]
+		},
     {
-      "key": "csp_Xinsj",
-      "name": "🐼视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
-    },
-    {
-      "key": "在线之家",
-      "name": "🎞在线",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀蓝光",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.vip"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "📔厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "⏮️低端",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+			"key": "Zhaozy",
+			"name": "🎉资源┃搜索",
+			"type": 3,
+			"api": "csp_Zhaozy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+		},
     {
       "key": "csp_WoGG",
       "name": "👽玩偶┃阿里云盘",
