@@ -70,57 +70,6 @@
       "filterable": 1
     },
     {
-      "key": "磁力3",
-      "name": "🌩️迅雷",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "分类url": "https://xunlei8.cc/{cateId}-0-{year}-{area}-date-{catePg}-30.html",
-        "分类": "电影$list#电视剧$tv",
-        "数组": "<div class=\"b33c0\">&&</a",
-        "图片": "src=\"&&\"",
-        "链接": "href=\"&&\"",
-        "线路标题": "迅雷下载",
-        "搜索模式": "1",
-        "搜索url": "https://xunlei8.cc/s/{wd}.html",
-        "播放数组": "<ul>&&</ul",
-        "播放列表": "<a&&</a",
-        "播放标题": "title=\"&&\"",
-        "年代": "年份：&&</a>",
-        "地区": "地区：&&</a>",
-        "类型": "类型：&&</a>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "<p class=\"b1f40f7888\">&&</h2>"
-      }
-    },
-    {
-      "key": "秒看资源",
-      "name": "⏱️秒看",
-      "type": 1,
-      "api": "https://mkzy.vip/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "综艺",
-        "电视剧",
-        "电影",
-        "动漫"
-      ]
-    },
-    {
-      "key": "csp_AList_Alist",
-      "name": "🍰小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xhww.fun:63/小米/源/alist.json"
-    },
-    {
       "key": "Zhaozy",
       "name": "🎉资源┃搜索",
       "type": 3,
