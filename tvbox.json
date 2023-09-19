@@ -23,38 +23,6 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
     {
-      "key": "探探",
-      "name": "🏵影探",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
-    },
-    {
-      "key": "迪迪",
-      "name": "😎迪迪",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://22222.yiyingys.asia/api.php/app/"
-    },
-    {
-      "key": "酷影",
-      "name": "🆒酷影",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
       "key": "Czsapp",
       "name": "📔厂长",
       "type": 3,
