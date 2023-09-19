@@ -22,6 +22,17 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
     {
+      "key": "探探",
+      "name": "🏵影探",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+    {
       "key": "迪迪",
       "name": "😎迪迪",
       "api": "csp_AppYsV2",
