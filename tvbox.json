@@ -1,6 +1,6 @@
 {
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2648825eee03cb548b2c411002a7aad9",
-  "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
@@ -12,16 +12,26 @@
       "filterable": 0
     },
     {
-      "key": "贱贱",
-      "name": "🐭见见┃p2p",
+      "key": "Mino",
+      "name": "👻Mino",
       "type": 3,
+      "api": "csp_Appto",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
+    // {
+    //   "key": "贱贱",
+    //   "name": "🐭见见┃p2p",
+    //   "type": 3,
+    //   "searchable": 1,
+    //   "quickSearch": 1,
+    //   "changeable": 1,
+    //   "playerType": 1,
+    //   "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+    //   "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+    // },
     {
       "key": "Czsapp",
       "name": "📔厂长",
@@ -45,7 +55,7 @@
       "key": "蚂蚁",
       "name": "🐜蚂蚁",
       "type": 3,
-      "api": "csp_Mayiys",
+      "api": "csp_MYYS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
