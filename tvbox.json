@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;392ed022ea488082844825d2e23818b7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -12,25 +12,15 @@
       "filterable": 0
     },
     {
-      "key": "橘子",
-      "name": "🍊橘子",
+      "key": "贱贱",
+      "name": "🐭见见┃p2p",
       "type": 3,
-      "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
-  },
-    {
-      "key": "Czsapp",
-      "name": "📔厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.cz0101.com/"
+      "playerType": "1",
+      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
     {
       "key": "zxzj",
@@ -51,7 +41,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
-  },
+    },
     {
       "key": "csp_WoGG",
       "name": "👽玩偶┃阿里云盘",
@@ -60,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
     },
     {
       "key": "YiSo",
