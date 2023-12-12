@@ -95,16 +95,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "七夜",
-      "name": "😾七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
       "type": 3,
