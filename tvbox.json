@@ -11,6 +11,16 @@
       "quickSearch": 0,
       "filterable": 0
     },
+        {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶┃阿里云盘",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
     {
       "key": "南瓜",
       "name": "🎃南瓜",
@@ -63,16 +73,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶┃阿里云盘",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "YiSo",
