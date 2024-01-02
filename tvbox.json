@@ -23,16 +23,7 @@
     },
     {"key":"九六","name":"🎀九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Czsapp","name":"📔厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy33.com/"},
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
     {
       "key": "贱贱",
       "name": "🐭见见",
