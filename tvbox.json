@@ -18,7 +18,7 @@
             "api":"csp_WoGG",
             "searchable":1,
             "quickSearch":1,
-            "changeable":0,
+            "changeable":1,
             "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
         },
         {
@@ -101,7 +101,7 @@
             "api":"csp_YiSo",
             "searchable":1,
             "quickSearch":1,
-            "changeable":0,
+            "changeable":1,
             "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
@@ -111,7 +111,7 @@
             "api":"csp_UpYun",
             "searchable":1,
             "quickSearch":1,
-            "changeable":0,
+            "changeable":1,
             "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
         {
