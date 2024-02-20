@@ -22,6 +22,15 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
         },
         {
+            "key": "荐片",
+            "name": "🎬┃荐片",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": "2",
+            "ext": "http://api2.rinhome.com",
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240220.jar;md5;6A88E33AC14761617F022039C81D054F"
+        },
+        {
             "key": "酷看",
             "name": "💡酷看",
             "type": 3,
