@@ -22,7 +22,7 @@
             "changeable":1,
             "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
         },
-        {
+{"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},        {
             "key":"Czsapp",
             "name":"📔厂长",
             "type":3,
