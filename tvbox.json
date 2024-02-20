@@ -28,7 +28,7 @@
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
-      "ext":"http://api2.rinhome.com"，
+      "ext":"http://api2.rinhome.com",
 "jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240220.jar;md5;6A88E33AC14761617F022039C81D054F"
     },
     {
@@ -38,7 +38,7 @@
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1，
+      "filterable": 1,
 "jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240220.jar;md5;6A88E33AC14761617F022039C81D054F"
     },   
  {
@@ -51,7 +51,7 @@
         "server": "http://tv.bl4k.xyz/api.php/app/",
         "mackey": "weZtRbfJDgzyvHiG|YLdoqhUccdDmEPQU",
         "parsekey": "mupfinBA986icmAZ|eV7YDmhgzThSiR1s",
-        "parseurl": "https://maya.x3322.net/api/index?parsesId=5&parsesUrl="，
+        "parseurl": "https://maya.x3322.net/api/index?parsesId=5&parsesUrl=",
 "jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240220.jar;md5;6A88E33AC14761617F022039C81D054F"      
 }
     },
