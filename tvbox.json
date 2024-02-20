@@ -24,7 +24,7 @@
         },
     {
       "key": "荐片",
-      "name": "🎬┃荐片┃影视",
+      "name": "🎬┃荐片",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
@@ -32,7 +32,7 @@
     },
     {
       "key": "csp_Vidhub2",
-      "name": "🎼┃Vid┃影视",
+      "name": "🎼┃Vid",
       "type": 3,
       "api": "csp_Vidhub2",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },   
  {
       "key": "布蕾",
-      "name": "⚡┃布蕾┃影视",
+      "name": "⚡┃布蕾",
       "type": 3,
       "api": "csp_Lvdou",
       "playerType": 1,
