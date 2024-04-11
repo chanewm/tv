@@ -41,16 +41,6 @@
             "changeable": 1
         },
         {
-            "key": "白嫖",
-            "name": "👻白白",
-            "type": 3,
-            "api": "csp_BaiPiao",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "厂长",
             "name": "📔厂长",
             "type": 3,
@@ -60,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
+            "ext": "https://www.czys01.com/"
         },
         {
             "key": "南瓜",
